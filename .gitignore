@@ -113,3 +113,4 @@ build/build/
 cocos/scripting/lua-bindings/proj.ios_mac/build/
 tests/*/runtime/
 tests/*/publish/
+*.VC.VC.opendb
